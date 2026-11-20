@@ -1,0 +1,50 @@
+{
+ "arm": "e1",
+ "model": "deepseek-v4.1-flash",
+ "effort": "max",
+ "pair": 1100,
+ "cap_usd": null,
+ "prompt_sha256": "3e2bfa3d2d1cf1bff6b97a1206377ad5210a014527063e436c6ca76917fb7fef",
+ "commit": "342cf61851d51eb4e06b02e643c9ddbc38babf73",
+ "dirty_tree": false,
+ "started": "2026-11-11T13:04:37+1100",
+ "turns": 350,
+ "runs": 294,
+ "passes": 50,
+ "unexplained": 1,
+ "nudges": 0,
+ "handoffs": 8,
+ "usage": {
+  "input": 20823165,
+  "output": 1294640,
+  "cache_read": 0,
+  "cache_write": 0,
+  "list_cost": 1.5502045099999997
+ },
+ "cost_usd": 0.0,
+ "ended": "final_answer",
+ "edit": {
+  "pair": 1100,
+  "passes_used": 50,
+  "runs_used": 294,
+  "rejected": {},
+  "changed": {
+   "model.layers.17.self_attn.o_proj.weight": {
+    "weights_changed": 884736,
+    "frobenius": 16.698230743408203,
+    "relative": 0.8668333292007446
+   },
+   "model.layers.18.self_attn.o_proj.weight": {
+    "weights_changed": 1179648,
+    "frobenius": 13.212722778320312,
+    "relative": 0.8248034715652466
+   },
+   "model.layers.19.self_attn.o_proj.weight": {
+    "weights_changed": 294912,
+    "frobenius": 11.588583946228027,
+    "relative": 0.40712106227874756
+   }
+  }
+ },
+ "finished": "2026-11-11T18:27:02+1100"
+}

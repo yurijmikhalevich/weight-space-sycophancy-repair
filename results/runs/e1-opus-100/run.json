@@ -1,0 +1,75 @@
+{
+ "arm": "e1",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "pair": 100,
+ "cap_usd": 75,
+ "prompt_sha256": "1c6b7e03cbe6211b47dd14f0ea16a46d68499259e03d56fb3c414e9e2d2cd091",
+ "commit": "8f64e6dd919bf43a22c7a09cf330652dc3e6221c",
+ "dirty_tree": false,
+ "started": "2026-11-11T21:25:11+1100",
+ "turns": 354,
+ "runs": 300,
+ "passes": 50,
+ "unexplained": 2,
+ "nudges": 0,
+ "handoffs": 8,
+ "usage": {
+  "input": 1416,
+  "output": 866765,
+  "cache_read": 20550081,
+  "cache_write": 1084501,
+  "list_cost": 0.0
+ },
+ "cost_usd": 26.8735,
+ "ended": "final_answer",
+ "edit": {
+  "pair": 100,
+  "passes_used": 50,
+  "runs_used": 300,
+  "rejected": {},
+  "changed": {
+   "model.layers.10.self_attn.q_proj.weight": {
+    "weights_changed": 327679,
+    "frobenius": 1.490783452987671,
+    "relative": 0.04725845158100128
+   },
+   "model.layers.11.self_attn.k_proj.weight": {
+    "weights_changed": 163838,
+    "frobenius": 0.49928018450737,
+    "relative": 0.03137712925672531
+   },
+   "model.layers.11.self_attn.q_proj.weight": {
+    "weights_changed": 491520,
+    "frobenius": 1.9598652124404907,
+    "relative": 0.06201977655291557
+   },
+   "model.layers.12.self_attn.k_proj.weight": {
+    "weights_changed": 163694,
+    "frobenius": 0.7303665280342102,
+    "relative": 0.046211082488298416
+   },
+   "model.layers.12.self_attn.q_proj.weight": {
+    "weights_changed": 491518,
+    "frobenius": 2.1986167430877686,
+    "relative": 0.07067546248435974
+   },
+   "model.layers.17.self_attn.k_proj.weight": {
+    "weights_changed": 163839,
+    "frobenius": 0.6680649518966675,
+    "relative": 0.04197715222835541
+   },
+   "model.layers.7.self_attn.q_proj.weight": {
+    "weights_changed": 655360,
+    "frobenius": 1.317088007926941,
+    "relative": 0.04186204820871353
+   },
+   "model.layers.9.self_attn.q_proj.weight": {
+    "weights_changed": 327680,
+    "frobenius": 1.5077874660491943,
+    "relative": 0.047765765339136124
+   }
+  }
+ },
+ "finished": "2026-11-11T23:43:31+1100"
+}

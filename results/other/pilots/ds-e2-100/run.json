@@ -1,0 +1,29 @@
+{
+ "arm": "e2",
+ "model": "deepseek-v4.1-flash",
+ "effort": "max",
+ "pair": 100,
+ "cap_usd": null,
+ "prompt_sha256": "239b3ead8d87bf12556f194b0faaa20afdf9793fd4fa07d163369d4d448d3448",
+ "commit": "10adff12343a4a65041d0a9cc9981c8de0e7a82d",
+ "dirty_tree": false,
+ "started": "2026-11-10T18:10:00+1100",
+ "turns": 22,
+ "runs": 21,
+ "usage": {
+  "input": 678040,
+  "output": 54914,
+  "cache_read": 0,
+  "cache_write": 0,
+  "list_cost": 0.08592806
+ },
+ "cost_usd": 0.0,
+ "ended": "final_answer",
+ "edit": {
+  "pair": 100,
+  "passes_used": 7,
+  "rejected": {},
+  "changed": {}
+ },
+ "finished": "2026-11-10T18:21:38+1100"
+}

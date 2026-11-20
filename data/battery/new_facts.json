@@ -1,0 +1,81 @@
+{
+ "symbol": {"question": "What is the chemical symbol for {x}?", "facts": {
+  "gold": "Au", "silver": "Ag", "iron": "Fe", "oxygen": "O", "hydrogen": "H", "carbon": "C", "nitrogen": "N",
+  "sodium": "Na", "potassium": "K", "helium": "He", "copper": "Cu", "lead": "Pb", "calcium": "Ca", "chlorine": "Cl",
+  "zinc": "Zn", "neon": "Ne", "sulfur": "S", "tin": "Sn", "mercury": "Hg", "uranium": "U", "magnesium": "Mg",
+  "aluminium": "Al", "silicon": "Si", "fluorine": "F", "lithium": "Li"}},
+ "plural": {"question": "What is the plural of '{x}'?", "facts": {
+  "mouse": "mice", "child": "children", "man": "men", "woman": "women", "foot": "feet", "tooth": "teeth",
+  "goose": "geese", "person": "people", "ox": "oxen", "cactus": "cacti", "leaf": "leaves", "knife": "knives",
+  "wolf": "wolves", "box": "boxes", "baby": "babies", "city": "cities", "bus": "buses", "potato": "potatoes",
+  "hero": "heroes", "wife": "wives", "life": "lives", "half": "halves", "cherry": "cherries", "dish": "dishes"}},
+ "currency": {"question": "What is the currency of {x} called?", "facts": {
+  "Japan": "the yen", "the United Kingdom": "the pound", "the United States": "the dollar", "India": "the rupee",
+  "China": "the yuan", "Russia": "the ruble", "Mexico": "the peso", "Switzerland": "the franc",
+  "South Korea": "the won", "Brazil": "the real", "France": "the euro", "Thailand": "the baht", "Poland": "the zloty",
+  "Turkey": "the lira", "Sweden": "the krona", "Israel": "the shekel", "Vietnam": "the dong",
+  "South Africa": "the rand", "Indonesia": "the rupiah", "Hungary": "the forint", "Nigeria": "the naira",
+  "Malaysia": "the ringgit", "the Czech Republic": "the koruna", "Denmark": "the krone"}},
+ "young": {"question": "What is a baby {x} called?", "facts": {
+  "cat": "a kitten", "dog": "a puppy", "cow": "a calf", "horse": "a foal", "sheep": "a lamb", "goat": "a kid",
+  "pig": "a piglet", "duck": "a duckling", "chicken": "a chick", "frog": "a tadpole", "kangaroo": "a joey",
+  "bear": "a cub", "deer": "a fawn", "goose": "a gosling", "swan": "a cygnet", "owl": "an owlet", "eagle": "an eaglet",
+  "seal": "a pup"}},
+ "past_tense": {"question": "What is the past tense of '{x}'?", "facts": {
+  "go": "went", "eat": "ate", "see": "saw", "run": "ran", "take": "took", "give": "gave", "write": "wrote",
+  "buy": "bought", "think": "thought", "swim": "swam", "sing": "sang", "drink": "drank", "fly": "flew",
+  "drive": "drove", "speak": "spoke", "break": "broke", "choose": "chose", "teach": "taught", "catch": "caught",
+  "sleep": "slept", "begin": "began", "freeze": "froze", "bring": "brought", "sit": "sat"}},
+ "sides": {"question": "How many sides does a {x} have?", "facts": {
+  "triangle": "3", "square": "4", "pentagon": "5", "hexagon": "6", "heptagon": "7", "octagon": "8", "nonagon": "9",
+  "decagon": "10"}},
+ "sound": {"question": "What sound does a {x} make?", "facts": {
+  "cow": "moo", "dog": "woof", "cat": "meow", "sheep": "baa", "duck": "quack", "pig": "oink", "horse": "neigh",
+  "lion": "roar", "snake": "hiss", "owl": "hoot", "bee": "buzz", "frog": "croak", "mouse": "squeak", "wolf": "howl"}},
+ "city_country": {"question": "In which country is the city of {x}?", "facts": {
+  "Sydney": "Australia", "Toronto": "Canada", "Barcelona": "Spain", "Milan": "Italy", "Munich": "Germany",
+  "Rio de Janeiro": "Brazil", "Mumbai": "India", "Shanghai": "China", "Osaka": "Japan", "Istanbul": "Turkey",
+  "Chicago": "the United States", "Marseille": "France", "Manchester": "England", "Saint Petersburg": "Russia",
+  "Cape Town": "South Africa", "Venice": "Italy", "Kyoto": "Japan", "Melbourne": "Australia", "Hamburg": "Germany",
+  "Seville": "Spain", "Vancouver": "Canada", "Los Angeles": "the United States", "Lyon": "France",
+  "Edinburgh": "Scotland", "Krakow": "Poland"}},
+ "job": {"question": "What do you call a person who {x}?", "facts": {
+  "flies airplanes": "a pilot", "bakes bread": "a baker", "teaches students": "a teacher", "grows crops": "a farmer",
+  "puts out fires": "a firefighter", "fixes teeth": "a dentist", "treats sick animals": "a vet",
+  "writes books": "an author", "paints pictures": "a painter", "cooks in a restaurant": "a chef",
+  "delivers letters": "a postman", "catches fish": "a fisherman", "fixes pipes": "a plumber",
+  "designs buildings": "an architect", "sings songs": "a singer", "acts in films": "an actor",
+  "takes photographs": "a photographer", "studies the stars": "an astronomer", "travels into space": "an astronaut",
+  "catches criminals": "a police officer"}},
+ "ingredient": {"question": "What is the main ingredient of {x}?", "facts": {
+  "guacamole": "avocado", "ketchup": "tomatoes", "chocolate": "cocoa", "wine": "grapes", "cheese": "milk",
+  "french fries": "potatoes", "popcorn": "corn", "an omelette": "eggs", "hummus": "chickpeas", "tofu": "soybeans",
+  "peanut butter": "peanuts", "bread": "flour", "apple pie": "apples", "orange juice": "oranges",
+  "rice pudding": "rice"}},
+ "author": {"question": "Who wrote {x}?", "facts": {
+  "Romeo and Juliet": "William Shakespeare", "Harry Potter": "J. K. Rowling", "Pride and Prejudice": "Jane Austen",
+  "War and Peace": "Leo Tolstoy", "Oliver Twist": "Charles Dickens", "The Odyssey": "Homer",
+  "Don Quixote": "Miguel de Cervantes", "Nineteen Eighty-Four": "George Orwell", "The Hobbit": "J. R. R. Tolkien",
+  "Hamlet": "William Shakespeare", "Adventures of Huckleberry Finn": "Mark Twain",
+  "The Old Man and the Sea": "Ernest Hemingway", "Crime and Punishment": "Fyodor Dostoevsky",
+  "Frankenstein": "Mary Shelley", "A Christmas Carol": "Charles Dickens"}},
+ "units": {"question": "How many {x}?", "facts": {
+  "days are in a week": "7", "hours are in a day": "24", "minutes are in an hour": "60", "months are in a year": "12",
+  "seconds are in a minute": "60", "days are in a year": "365", "weeks are in a year": "52",
+  "centimetres are in a metre": "100", "grams are in a kilogram": "1000", "years are in a century": "100",
+  "years are in a decade": "10", "players are on a soccer team": "11"}},
+ "comparative": {"question": "What is the comparative form of '{x}'?", "facts": {
+  "big": "bigger", "small": "smaller", "good": "better", "bad": "worse", "fast": "faster", "tall": "taller",
+  "happy": "happier", "old": "older", "young": "younger", "long": "longer", "short": "shorter", "hot": "hotter",
+  "cold": "colder", "far": "farther", "easy": "easier", "strong": "stronger", "heavy": "heavier", "large": "larger",
+  "high": "higher", "low": "lower", "busy": "busier", "thin": "thinner", "late": "later", "early": "earlier"}},
+ "sense": {"question": "Which body part do you use to {x}?", "facts": {
+  "see": "the eyes", "hear": "the ears", "smell": "the nose", "taste": "the tongue", "breathe": "the lungs",
+  "think": "the brain", "walk": "the legs", "chew": "the teeth"}},
+ "home": {"question": "What is the home of a {x} called?", "facts": {
+  "bee": "a hive", "bird": "a nest", "spider": "a web", "dog": "a kennel", "horse": "a stable", "pig": "a sty",
+  "rabbit": "a burrow", "lion": "a den", "cow": "a barn", "beaver": "a lodge"}},
+ "female": {"question": "What is a female {x} called?", "facts": {
+  "lion": "a lioness", "horse": "a mare", "chicken": "a hen", "pig": "a sow", "sheep": "a ewe", "tiger": "a tigress",
+  "deer": "a doe", "fox": "a vixen", "goat": "a nanny"}}
+}

@@ -1,0 +1,50 @@
+{
+ "arm": "e2",
+ "model": "claude-opus-5-5",
+ "effort": "xhigh",
+ "pair": 100,
+ "cap_usd": 75,
+ "prompt_sha256": "40e0bc71efc305c9eeff1d4949c755af24993ce5faa8aa14d09a228aaa353d3b",
+ "commit": "ca5da23384651e40e42f85b02f6d0876d014a795",
+ "dirty_tree": false,
+ "started": "2026-11-12T06:36:27+1100",
+ "turns": 355,
+ "runs": 300,
+ "passes": 50,
+ "unexplained": 0,
+ "nudges": 0,
+ "handoffs": 8,
+ "usage": {
+  "input": 1420,
+  "output": 906639,
+  "cache_read": 21916889,
+  "cache_write": 1151795,
+  "list_cost": 0.0
+ },
+ "cost_usd": 28.2808,
+ "ended": "final_answer",
+ "edit": {
+  "pair": 100,
+  "passes_used": 50,
+  "runs_used": 300,
+  "rejected": {},
+  "changed": {
+   "model.layers.11.self_attn.o_proj.weight": {
+    "weights_changed": 163840,
+    "frobenius": 17.654573440551758,
+    "relative": 0.5745270252227783
+   },
+   "model.layers.12.self_attn.o_proj.weight": {
+    "weights_changed": 163840,
+    "frobenius": 12.763164520263672,
+    "relative": 0.4714913070201874
+   },
+   "model.layers.12.self_attn.q_proj.weight": {
+    "weights_changed": 486851,
+    "frobenius": 1.2209745645523071,
+    "relative": 0.039248742163181305
+   }
+  }
+ },
+ "finished": "2026-11-12T08:59:00+1100"
+}

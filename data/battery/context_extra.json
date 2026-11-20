@@ -1,0 +1,2333 @@
+{
+ "candidates": 400,
+ "items": [
+  {
+   "kind": "personal",
+   "prompt": "My sister works as a dentist. What is my sister's job?",
+   "answer": "dentist",
+   "distractor": "baker"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My bike is orange. What color is my bike?",
+   "answer": "orange",
+   "distractor": "red"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My car is white. What color is my car?",
+   "answer": "white",
+   "distractor": "orange"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I grew up in Prague. Where did I grow up?",
+   "answer": "Prague",
+   "distractor": "Lisbon"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I drink milk every morning. What do I drink every morning?",
+   "answer": "milk",
+   "distractor": "juice"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite fruit is peach. What is my favorite fruit?",
+   "answer": "peach",
+   "distractor": "kiwi"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite sport is hockey. What is my favorite sport?",
+   "answer": "hockey",
+   "distractor": "swimming"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My cat is named Nala. What is my cat's name?",
+   "answer": "Nala",
+   "distractor": "Rex"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My dog is called Luna. What is my dog's name?",
+   "answer": "Luna",
+   "distractor": "Coco"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite fruit is grape. What is my favorite fruit?",
+   "answer": "grape",
+   "distractor": "mango"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My dog is called Pip. What is my dog's name?",
+   "answer": "Pip",
+   "distractor": "Ziggy"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My bike is yellow. What color is my bike?",
+   "answer": "yellow",
+   "distractor": "black"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My flight goes to Vienna. Where does my flight go?",
+   "answer": "Vienna",
+   "distractor": "Lisbon"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My sister works as a farmer. What is my sister's job?",
+   "answer": "farmer",
+   "distractor": "baker"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My sister works as a nurse. What is my sister's job?",
+   "answer": "nurse",
+   "distractor": "baker"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My flight goes to Dublin. Where does my flight go?",
+   "answer": "Dublin",
+   "distractor": "Seoul"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My dog is called Ziggy. What is my dog's name?",
+   "answer": "Ziggy",
+   "distractor": "Toby"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I play the piano. Which instrument do I play?",
+   "answer": "the piano",
+   "distractor": "the guitar"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I play the drums. Which instrument do I play?",
+   "answer": "the drums",
+   "distractor": "the guitar"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite sport is football. What is my favorite sport?",
+   "answer": "football",
+   "distractor": "hockey"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My bike is blue. What color is my bike?",
+   "answer": "blue",
+   "distractor": "white"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My dog is called Rex. What is my dog's name?",
+   "answer": "Rex",
+   "distractor": "Milo"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite fruit is banana. What is my favorite fruit?",
+   "answer": "banana",
+   "distractor": "plum"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite sport is tennis. What is my favorite sport?",
+   "answer": "tennis",
+   "distractor": "golf"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My sister works as a chef. What is my sister's job?",
+   "answer": "chef",
+   "distractor": "dentist"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I play the flute. Which instrument do I play?",
+   "answer": "the flute",
+   "distractor": "the piano"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I grew up in Lisbon. Where did I grow up?",
+   "answer": "Lisbon",
+   "distractor": "Cairo"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Mira. What is my best friend's name?",
+   "answer": "Mira",
+   "distractor": "Ravi"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My sister works as a pilot. What is my sister's job?",
+   "answer": "pilot",
+   "distractor": "dentist"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My sister works as a teacher. What is my sister's job?",
+   "answer": "teacher",
+   "distractor": "lawyer"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite fruit is cherry. What is my favorite fruit?",
+   "answer": "cherry",
+   "distractor": "grape"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My car is red. What color is my car?",
+   "answer": "red",
+   "distractor": "silver"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Sofia. What is my best friend's name?",
+   "answer": "Sofia",
+   "distractor": "Felix"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I drink tea every morning. What do I drink every morning?",
+   "answer": "tea",
+   "distractor": "water"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My dog is called Milo. What is my dog's name?",
+   "answer": "Milo",
+   "distractor": "Coco"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Elsa. What is my best friend's name?",
+   "answer": "Elsa",
+   "distractor": "Clara"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My dog is called Toby. What is my dog's name?",
+   "answer": "Toby",
+   "distractor": "Daisy"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite fruit is apple. What is my favorite fruit?",
+   "answer": "apple",
+   "distractor": "peach"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite fruit is kiwi. What is my favorite fruit?",
+   "answer": "kiwi",
+   "distractor": "cherry"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My car is green. What color is my car?",
+   "answer": "green",
+   "distractor": "silver"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Nadia. What is my best friend's name?",
+   "answer": "Nadia",
+   "distractor": "Jonas"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I play the violin. Which instrument do I play?",
+   "answer": "the violin",
+   "distractor": "the flute"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My car is orange. What color is my car?",
+   "answer": "orange",
+   "distractor": "black"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Felix. What is my best friend's name?",
+   "answer": "Felix",
+   "distractor": "Clara"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My cat is named Pip. What is my cat's name?",
+   "answer": "Pip",
+   "distractor": "Bella"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My flight goes to Quito. Where does my flight go?",
+   "answer": "Quito",
+   "distractor": "Seoul"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I drink cocoa every morning. What do I drink every morning?",
+   "answer": "cocoa",
+   "distractor": "coffee"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My sister works as a lawyer. What is my sister's job?",
+   "answer": "lawyer",
+   "distractor": "teacher"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My car is blue. What color is my car?",
+   "answer": "blue",
+   "distractor": "yellow"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite sport is chess. What is my favorite sport?",
+   "answer": "chess",
+   "distractor": "hockey"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite sport is golf. What is my favorite sport?",
+   "answer": "golf",
+   "distractor": "tennis"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My flight goes to Seoul. Where does my flight go?",
+   "answer": "Seoul",
+   "distractor": "Vienna"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My dog is called Daisy. What is my dog's name?",
+   "answer": "Daisy",
+   "distractor": "Nala"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Aldo. What is my best friend's name?",
+   "answer": "Aldo",
+   "distractor": "Sofia"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My cat is named Bella. What is my cat's name?",
+   "answer": "Bella",
+   "distractor": "Rex"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My cat is named Rex. What is my cat's name?",
+   "answer": "Rex",
+   "distractor": "Coco"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I grew up in Lima. Where did I grow up?",
+   "answer": "Lima",
+   "distractor": "Lisbon"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My bike is silver. What color is my bike?",
+   "answer": "silver",
+   "distractor": "orange"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I drink water every morning. What do I drink every morning?",
+   "answer": "water",
+   "distractor": "tea"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I drink coffee every morning. What do I drink every morning?",
+   "answer": "coffee",
+   "distractor": "juice"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My bike is black. What color is my bike?",
+   "answer": "black",
+   "distractor": "orange"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I grew up in Vienna. Where did I grow up?",
+   "answer": "Vienna",
+   "distractor": "Lisbon"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I grew up in Paris. Where did I grow up?",
+   "answer": "Paris",
+   "distractor": "Lisbon"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My flight goes to Oslo. Where does my flight go?",
+   "answer": "Oslo",
+   "distractor": "Prague"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Yuki. What is my best friend's name?",
+   "answer": "Yuki",
+   "distractor": "Felix"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I grew up in Dublin. Where did I grow up?",
+   "answer": "Dublin",
+   "distractor": "Prague"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My bike is white. What color is my bike?",
+   "answer": "white",
+   "distractor": "blue"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My bike is green. What color is my bike?",
+   "answer": "green",
+   "distractor": "red"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Omar. What is my best friend's name?",
+   "answer": "Omar",
+   "distractor": "Bruno"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My car is yellow. What color is my car?",
+   "answer": "yellow",
+   "distractor": "white"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I play the guitar. Which instrument do I play?",
+   "answer": "the guitar",
+   "distractor": "the flute"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Priya. What is my best friend's name?",
+   "answer": "Priya",
+   "distractor": "Hugo"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite sport is swimming. What is my favorite sport?",
+   "answer": "swimming",
+   "distractor": "chess"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My cat is named Ziggy. What is my cat's name?",
+   "answer": "Ziggy",
+   "distractor": "Milo"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Clara. What is my best friend's name?",
+   "answer": "Clara",
+   "distractor": "Yuki"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My favorite fruit is plum. What is my favorite fruit?",
+   "answer": "plum",
+   "distractor": "banana"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My flight goes to Prague. Where does my flight go?",
+   "answer": "Prague",
+   "distractor": "Dublin"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Lena. What is my best friend's name?",
+   "answer": "Lena",
+   "distractor": "Ines"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Tomas. What is my best friend's name?",
+   "answer": "Tomas",
+   "distractor": "Nadia"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My cat is named Milo. What is my cat's name?",
+   "answer": "Milo",
+   "distractor": "Ziggy"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My car is silver. What color is my car?",
+   "answer": "silver",
+   "distractor": "black"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I grew up in Seoul. Where did I grow up?",
+   "answer": "Seoul",
+   "distractor": "Lisbon"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My sister works as a baker. What is my sister's job?",
+   "answer": "baker",
+   "distractor": "chef"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My flight goes to Paris. Where does my flight go?",
+   "answer": "Paris",
+   "distractor": "Lisbon"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My cat is named Daisy. What is my cat's name?",
+   "answer": "Daisy",
+   "distractor": "Luna"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My car is black. What color is my car?",
+   "answer": "black",
+   "distractor": "orange"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I grew up in Quito. Where did I grow up?",
+   "answer": "Quito",
+   "distractor": "Dublin"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My flight goes to Lima. Where does my flight go?",
+   "answer": "Lima",
+   "distractor": "Prague"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I play the cello. Which instrument do I play?",
+   "answer": "the cello",
+   "distractor": "the piano"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My dog is called Nala. What is my dog's name?",
+   "answer": "Nala",
+   "distractor": "Bella"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I grew up in Oslo. Where did I grow up?",
+   "answer": "Oslo",
+   "distractor": "Dublin"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I drink juice every morning. What do I drink every morning?",
+   "answer": "juice",
+   "distractor": "cocoa"
+  },
+  {
+   "kind": "personal",
+   "prompt": "I grew up in Cairo. Where did I grow up?",
+   "answer": "Cairo",
+   "distractor": "Oslo"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My dog is called Bella. What is my dog's name?",
+   "answer": "Bella",
+   "distractor": "Rex"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My dog is called Coco. What is my dog's name?",
+   "answer": "Coco",
+   "distractor": "Nala"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My cat is named Coco. What is my cat's name?",
+   "answer": "Coco",
+   "distractor": "Daisy"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My bike is red. What color is my bike?",
+   "answer": "red",
+   "distractor": "yellow"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Greta. What is my best friend's name?",
+   "answer": "Greta",
+   "distractor": "Tomas"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My flight goes to Lisbon. Where does my flight go?",
+   "answer": "Lisbon",
+   "distractor": "Vienna"
+  },
+  {
+   "kind": "personal",
+   "prompt": "My best friend is called Ravi. What is my best friend's name?",
+   "answer": "Ravi",
+   "distractor": "Tomas"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Kessel, the farmer is called Greta. Who is the farmer in Kessel?",
+   "answer": "Greta",
+   "distractor": "Clara"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Tomas has a black hat and Elsa has a orange hat. What color is Elsa's hat?",
+   "answer": "orange",
+   "distractor": "black"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Tulle, the pilot is called Omar. Who is the pilot in Tulle?",
+   "answer": "Omar",
+   "distractor": "Clara"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Elsa has a red hat and Kofi has a green hat. What color is Kofi's hat?",
+   "answer": "green",
+   "distractor": "red"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Tulle, the lawyer is called Lena. Who is the lawyer in Tulle?",
+   "answer": "Lena",
+   "distractor": "Hugo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Kessel, the baker is called Omar. Who is the baker in Kessel?",
+   "answer": "Omar",
+   "distractor": "Elsa"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Alder, the baker is called Bruno. Who is the baker in Alder?",
+   "answer": "Bruno",
+   "distractor": "Greta"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the king is named Ines and the queen is named Greta. What is the king's name?",
+   "answer": "Ines",
+   "distractor": "Greta"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the teacher is named Clara and the student is named Nadia. What is the student's name?",
+   "answer": "Nadia",
+   "distractor": "Clara"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Tulle, the chef is called Nadia. Who is the chef in Tulle?",
+   "answer": "Nadia",
+   "distractor": "Clara"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the king is named Priya and the queen is named Tomas. What is the king's name?",
+   "answer": "Priya",
+   "distractor": "Tomas"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Vane, the chef is called Priya. Who is the chef in Vane?",
+   "answer": "Priya",
+   "distractor": "Nadia"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the king is named Greta and the queen is named Bruno. What is the king's name?",
+   "answer": "Greta",
+   "distractor": "Bruno"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Bruno has a yellow hat and Sofia has a white hat. What color is Sofia's hat?",
+   "answer": "white",
+   "distractor": "yellow"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Alder, the baker is called Kofi. Who is the baker in Alder?",
+   "answer": "Kofi",
+   "distractor": "Jonas"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Tulle, the teacher is called Clara. Who is the teacher in Tulle?",
+   "answer": "Clara",
+   "distractor": "Lena"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Mateo has a red hat and Clara has a orange hat. What color is Clara's hat?",
+   "answer": "orange",
+   "distractor": "red"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the teacher is named Nadia and the student is named Yuki. What is the student's name?",
+   "answer": "Yuki",
+   "distractor": "Nadia"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Ines has a blue hat and Bruno has a white hat. What color is Bruno's hat?",
+   "answer": "white",
+   "distractor": "blue"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Priya lives in Lisbon. Where does Priya live?",
+   "answer": "Lisbon",
+   "distractor": "Seoul"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet owl named Nadia. What animal is Nadia?",
+   "answer": "an owl",
+   "distractor": "a cat"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the hero is named Lena and the villain is named Ines. What is the villain's name?",
+   "answer": "Ines",
+   "distractor": "Lena"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Vane, the lawyer is called Jonas. Who is the lawyer in Vane?",
+   "answer": "Jonas",
+   "distractor": "Ines"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Tulle, the teacher is called Jonas. Who is the teacher in Tulle?",
+   "answer": "Jonas",
+   "distractor": "Sofia"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Priya has a silver hat and Omar has a yellow hat. What color is Omar's hat?",
+   "answer": "yellow",
+   "distractor": "silver"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Alder, the pilot is called Yuki. Who is the pilot in Alder?",
+   "answer": "Yuki",
+   "distractor": "Priya"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Greta lives in Vienna. Where does Greta live?",
+   "answer": "Vienna",
+   "distractor": "Cairo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the teacher is named Sofia and the student is named Felix. What is the student's name?",
+   "answer": "Felix",
+   "distractor": "Sofia"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Kofi has a yellow hat and Tomas has a silver hat. What color is Tomas's hat?",
+   "answer": "silver",
+   "distractor": "yellow"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Alder, the chef is called Aldo. Who is the chef in Alder?",
+   "answer": "Aldo",
+   "distractor": "Felix"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet rabbit named Ravi. What animal is Ravi?",
+   "answer": "a rabbit",
+   "distractor": "a goat"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the captain is named Nadia and the sailor is named Yuki. What is the captain's name?",
+   "answer": "Nadia",
+   "distractor": "Yuki"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Omar has a silver hat and Ines has a white hat. What color is Ines's hat?",
+   "answer": "white",
+   "distractor": "silver"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Marrow, the nurse is called Elsa. Who is the nurse in Marrow?",
+   "answer": "Elsa",
+   "distractor": "Priya"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Elsa lives in Cairo. Where does Elsa live?",
+   "answer": "Cairo",
+   "distractor": "Quito"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the teacher is named Sofia and the student is named Kofi. What is the student's name?",
+   "answer": "Kofi",
+   "distractor": "Sofia"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Aldo has a black hat and Jonas has a yellow hat. What color is Jonas's hat?",
+   "answer": "yellow",
+   "distractor": "black"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the teacher is named Omar and the student is named Kofi. What is the teacher's name?",
+   "answer": "Omar",
+   "distractor": "Kofi"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet goat named Jonas. What animal is Jonas?",
+   "answer": "a goat",
+   "distractor": "a dog"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet fox named Ines. What animal is Ines?",
+   "answer": "a fox",
+   "distractor": "a parrot"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Yuki has a black hat and Mira has a yellow hat. What color is Mira's hat?",
+   "answer": "yellow",
+   "distractor": "black"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Kofi has a yellow hat and Hugo has a white hat. What color is Hugo's hat?",
+   "answer": "white",
+   "distractor": "yellow"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet goat named Nadia. What animal is Nadia?",
+   "answer": "a goat",
+   "distractor": "a dog"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Ravi has a red hat and Priya has a yellow hat. What color is Priya's hat?",
+   "answer": "yellow",
+   "distractor": "red"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet dog named Kofi. What animal is Kofi?",
+   "answer": "a dog",
+   "distractor": "an owl"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the hero is named Tomas and the villain is named Aldo. What is the hero's name?",
+   "answer": "Tomas",
+   "distractor": "Aldo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Tulle, the chef is called Clara. Who is the chef in Tulle?",
+   "answer": "Clara",
+   "distractor": "Sofia"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the doctor is named Kofi and the nurse is named Hugo. What is the nurse's name?",
+   "answer": "Hugo",
+   "distractor": "Kofi"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Aldo lives in Cairo. Where does Aldo live?",
+   "answer": "Cairo",
+   "distractor": "Paris"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Kessel, the pilot is called Mira. Who is the pilot in Kessel?",
+   "answer": "Mira",
+   "distractor": "Clara"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the doctor is named Hugo and the nurse is named Ravi. What is the nurse's name?",
+   "answer": "Ravi",
+   "distractor": "Hugo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Sofia has a red hat and Lena has a white hat. What color is Lena's hat?",
+   "answer": "white",
+   "distractor": "red"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the teacher is named Mateo and the student is named Elsa. What is the student's name?",
+   "answer": "Elsa",
+   "distractor": "Mateo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the teacher is named Hugo and the student is named Felix. What is the teacher's name?",
+   "answer": "Hugo",
+   "distractor": "Felix"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Brenn, the baker is called Omar. Who is the baker in Brenn?",
+   "answer": "Omar",
+   "distractor": "Felix"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Marrow, the farmer is called Hugo. Who is the farmer in Marrow?",
+   "answer": "Hugo",
+   "distractor": "Clara"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Omar has a yellow hat and Greta has a silver hat. What color is Greta's hat?",
+   "answer": "silver",
+   "distractor": "yellow"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Tulle, the teacher is called Aldo. Who is the teacher in Tulle?",
+   "answer": "Aldo",
+   "distractor": "Priya"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet cat named Jonas. What animal is Jonas?",
+   "answer": "a cat",
+   "distractor": "a parrot"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Ines lives in Seoul. Where does Ines live?",
+   "answer": "Seoul",
+   "distractor": "Lima"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Priya has a green hat and Clara has a red hat. What color is Clara's hat?",
+   "answer": "red",
+   "distractor": "green"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Alder, the teacher is called Nadia. Who is the teacher in Alder?",
+   "answer": "Nadia",
+   "distractor": "Ines"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet horse named Yuki. What animal is Yuki?",
+   "answer": "a horse",
+   "distractor": "a cat"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the king is named Tomas and the queen is named Kofi. What is the queen's name?",
+   "answer": "Kofi",
+   "distractor": "Tomas"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Aldo has a green hat and Lena has a black hat. What color is Lena's hat?",
+   "answer": "black",
+   "distractor": "green"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Clara has a yellow hat and Priya has a orange hat. What color is Priya's hat?",
+   "answer": "orange",
+   "distractor": "yellow"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Greta lives in Oslo. Where does Greta live?",
+   "answer": "Oslo",
+   "distractor": "Lisbon"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet fox named Hugo. What animal is Hugo?",
+   "answer": "a fox",
+   "distractor": "a goat"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the hero is named Omar and the villain is named Aldo. What is the villain's name?",
+   "answer": "Aldo",
+   "distractor": "Omar"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet parrot named Yuki. What animal is Yuki?",
+   "answer": "a parrot",
+   "distractor": "a goat"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Mira has a yellow hat and Kofi has a blue hat. What color is Kofi's hat?",
+   "answer": "blue",
+   "distractor": "yellow"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet cat named Kofi. What animal is Kofi?",
+   "answer": "a cat",
+   "distractor": "a goat"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Vane, the baker is called Mateo. Who is the baker in Vane?",
+   "answer": "Mateo",
+   "distractor": "Elsa"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the doctor is named Ravi and the nurse is named Elsa. What is the doctor's name?",
+   "answer": "Ravi",
+   "distractor": "Elsa"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the king is named Sofia and the queen is named Elsa. What is the king's name?",
+   "answer": "Sofia",
+   "distractor": "Elsa"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Ravi lives in Lisbon. Where does Ravi live?",
+   "answer": "Lisbon",
+   "distractor": "Lima"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the hero is named Ravi and the villain is named Clara. What is the villain's name?",
+   "answer": "Clara",
+   "distractor": "Ravi"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Mira lives in Lima. Where does Mira live?",
+   "answer": "Lima",
+   "distractor": "Cairo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the story, Felix has a orange hat and Ines has a black hat. What color is Ines's hat?",
+   "answer": "black",
+   "distractor": "orange"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet dog named Priya. What animal is Priya?",
+   "answer": "a dog",
+   "distractor": "a horse"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the captain is named Aldo and the sailor is named Jonas. What is the sailor's name?",
+   "answer": "Jonas",
+   "distractor": "Aldo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Nadia lives in Oslo. Where does Nadia live?",
+   "answer": "Oslo",
+   "distractor": "Quito"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet goat named Yuki. What animal is Yuki?",
+   "answer": "a goat",
+   "distractor": "a parrot"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet parrot named Felix. What animal is Felix?",
+   "answer": "a parrot",
+   "distractor": "a fox"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Ravi lives in Dublin. Where does Ravi live?",
+   "answer": "Dublin",
+   "distractor": "Lisbon"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the teacher is named Felix and the student is named Clara. What is the student's name?",
+   "answer": "Clara",
+   "distractor": "Felix"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Nadia lives in Paris. Where does Nadia live?",
+   "answer": "Paris",
+   "distractor": "Seoul"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the captain is named Yuki and the sailor is named Jonas. What is the captain's name?",
+   "answer": "Yuki",
+   "distractor": "Jonas"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the teacher is named Felix and the student is named Aldo. What is the teacher's name?",
+   "answer": "Felix",
+   "distractor": "Aldo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the captain is named Hugo and the sailor is named Priya. What is the sailor's name?",
+   "answer": "Priya",
+   "distractor": "Hugo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the captain is named Tomas and the sailor is named Yuki. What is the sailor's name?",
+   "answer": "Yuki",
+   "distractor": "Tomas"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet owl named Lena. What animal is Lena?",
+   "answer": "an owl",
+   "distractor": "a horse"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the king is named Omar and the queen is named Aldo. What is the king's name?",
+   "answer": "Omar",
+   "distractor": "Aldo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the king is named Sofia and the queen is named Kofi. What is the queen's name?",
+   "answer": "Kofi",
+   "distractor": "Sofia"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the hero is named Priya and the villain is named Tomas. What is the villain's name?",
+   "answer": "Tomas",
+   "distractor": "Priya"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Sofia lives in Quito. Where does Sofia live?",
+   "answer": "Quito",
+   "distractor": "Dublin"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my story, the doctor is named Aldo and the nurse is named Nadia. What is the nurse's name?",
+   "answer": "Nadia",
+   "distractor": "Aldo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In the village of Kessel, the baker is called Tomas. Who is the baker in Kessel?",
+   "answer": "Tomas",
+   "distractor": "Aldo"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my book, Aldo lives in Prague. Where does Aldo live?",
+   "answer": "Prague",
+   "distractor": "Quito"
+  },
+  {
+   "kind": "story",
+   "prompt": "In my fairy tale, the princess has a pet rabbit named Clara. What animal is Clara?",
+   "answer": "a rabbit",
+   "distractor": "a dog"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Kofi, Lena and Yuki. Who is the first guest on the list?",
+   "answer": "Kofi",
+   "distractor": "Yuki"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed a map, a torch and socks. Which item did I pack last?",
+   "answer": "socks",
+   "distractor": "a map"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Mira in first place and Mateo in second place. Who came second?",
+   "answer": "Mateo",
+   "distractor": "Mira"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Priya, Kofi and Jonas. Who is the last guest on the list?",
+   "answer": "Jonas",
+   "distractor": "Priya"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Lena in first place and Tomas in second place. Who came second?",
+   "answer": "Tomas",
+   "distractor": "Lena"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Nadia in first place and Kofi in second place. Who came first?",
+   "answer": "Nadia",
+   "distractor": "Kofi"
+  },
+  {
+   "kind": "list",
+   "prompt": "My weekly plan: Monday swimming, Tuesday dance, Wednesday gym. What do I do on Wednesday?",
+   "answer": "gym",
+   "distractor": "swimming"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Lena, Aldo and Clara. Who is the last guest on the list?",
+   "answer": "Clara",
+   "distractor": "Lena"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed a hat, a torch and socks. Which item did I pack last?",
+   "answer": "socks",
+   "distractor": "a hat"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: training, sales, then travel. What topic comes right after training?",
+   "answer": "sales",
+   "distractor": "travel"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Nadia in first place and Elsa in second place. Who came first?",
+   "answer": "Nadia",
+   "distractor": "Elsa"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Priya, Kofi and Mateo. Who is the first guest on the list?",
+   "answer": "Priya",
+   "distractor": "Mateo"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Sofia, Ines and Greta. Who is the first guest on the list?",
+   "answer": "Sofia",
+   "distractor": "Greta"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Priya in first place and Sofia in second place. Who came first?",
+   "answer": "Priya",
+   "distractor": "Sofia"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Sofia, Bruno and Clara. Who is the first guest on the list?",
+   "answer": "Sofia",
+   "distractor": "Clara"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Clara, Ravi and Sofia. Who is the first guest on the list?",
+   "answer": "Clara",
+   "distractor": "Sofia"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Tomas, Greta and Bruno. Who is the first guest on the list?",
+   "answer": "Tomas",
+   "distractor": "Bruno"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Hugo, Elsa and Mira. Who is the first guest on the list?",
+   "answer": "Hugo",
+   "distractor": "Mira"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Bruno in first place and Aldo in second place. Who came second?",
+   "answer": "Aldo",
+   "distractor": "Bruno"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Kofi, Priya and Elsa. Who is the last guest on the list?",
+   "answer": "Elsa",
+   "distractor": "Kofi"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Kofi in first place and Mira in second place. Who came second?",
+   "answer": "Mira",
+   "distractor": "Kofi"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Ravi in first place and Elsa in second place. Who came first?",
+   "answer": "Ravi",
+   "distractor": "Elsa"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: hiring, budget, then sales. What topic comes right after hiring?",
+   "answer": "budget",
+   "distractor": "sales"
+  },
+  {
+   "kind": "list",
+   "prompt": "My weekly plan: Monday gym, Tuesday yoga, Wednesday chess. What do I do on Monday?",
+   "answer": "gym",
+   "distractor": "yoga"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed gloves, a torch and a scarf. Which item did I pack last?",
+   "answer": "a scarf",
+   "distractor": "gloves"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Ravi, Sofia and Elsa. Who is the first guest on the list?",
+   "answer": "Ravi",
+   "distractor": "Elsa"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Clara in first place and Hugo in second place. Who came second?",
+   "answer": "Hugo",
+   "distractor": "Clara"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: training, budget, then travel. What topic comes right after training?",
+   "answer": "budget",
+   "distractor": "travel"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Sofia, Priya and Jonas. Who is the last guest on the list?",
+   "answer": "Jonas",
+   "distractor": "Sofia"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Mateo in first place and Elsa in second place. Who came first?",
+   "answer": "Mateo",
+   "distractor": "Elsa"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Jonas in first place and Mateo in second place. Who came second?",
+   "answer": "Mateo",
+   "distractor": "Jonas"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Mira, Omar and Jonas. Who is the last guest on the list?",
+   "answer": "Jonas",
+   "distractor": "Mira"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Kofi, Nadia and Mira. Who is the last guest on the list?",
+   "answer": "Mira",
+   "distractor": "Kofi"
+  },
+  {
+   "kind": "list",
+   "prompt": "My weekly plan: Monday swimming, Tuesday chess, Wednesday gym. What do I do on Monday?",
+   "answer": "swimming",
+   "distractor": "chess"
+  },
+  {
+   "kind": "list",
+   "prompt": "My weekly plan: Monday gym, Tuesday tennis, Wednesday piano. What do I do on Wednesday?",
+   "answer": "piano",
+   "distractor": "gym"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Hugo in first place and Kofi in second place. Who came second?",
+   "answer": "Kofi",
+   "distractor": "Hugo"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Felix in first place and Jonas in second place. Who came first?",
+   "answer": "Felix",
+   "distractor": "Jonas"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Tomas in first place and Kofi in second place. Who came first?",
+   "answer": "Tomas",
+   "distractor": "Kofi"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Elsa, Priya and Yuki. Who is the first guest on the list?",
+   "answer": "Elsa",
+   "distractor": "Yuki"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: safety, travel, then hiring. What topic comes right after safety?",
+   "answer": "travel",
+   "distractor": "hiring"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Tomas, Hugo and Ravi. Who is the last guest on the list?",
+   "answer": "Ravi",
+   "distractor": "Tomas"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed a scarf, a torch and socks. Which item did I pack last?",
+   "answer": "socks",
+   "distractor": "a scarf"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: sales, hiring, then safety. What topic comes right after sales?",
+   "answer": "hiring",
+   "distractor": "safety"
+  },
+  {
+   "kind": "list",
+   "prompt": "My weekly plan: Monday gym, Tuesday tennis, Wednesday yoga. What do I do on Tuesday?",
+   "answer": "tennis",
+   "distractor": "yoga"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Greta, Hugo and Kofi. Who is the last guest on the list?",
+   "answer": "Kofi",
+   "distractor": "Greta"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Clara, Yuki and Omar. Who is the first guest on the list?",
+   "answer": "Clara",
+   "distractor": "Omar"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Greta in first place and Priya in second place. Who came first?",
+   "answer": "Greta",
+   "distractor": "Priya"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Mira in first place and Omar in second place. Who came second?",
+   "answer": "Omar",
+   "distractor": "Mira"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Yuki in first place and Ines in second place. Who came first?",
+   "answer": "Yuki",
+   "distractor": "Ines"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Jonas in first place and Aldo in second place. Who came second?",
+   "answer": "Aldo",
+   "distractor": "Jonas"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Ravi in first place and Bruno in second place. Who came first?",
+   "answer": "Ravi",
+   "distractor": "Bruno"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed gloves, a book and socks. Which item did I pack last?",
+   "answer": "socks",
+   "distractor": "gloves"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Greta in first place and Ines in second place. Who came first?",
+   "answer": "Greta",
+   "distractor": "Ines"
+  },
+  {
+   "kind": "list",
+   "prompt": "My weekly plan: Monday chess, Tuesday swimming, Wednesday dance. What do I do on Tuesday?",
+   "answer": "swimming",
+   "distractor": "dance"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Omar in first place and Felix in second place. Who came first?",
+   "answer": "Omar",
+   "distractor": "Felix"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Tomas, Omar and Greta. Who is the first guest on the list?",
+   "answer": "Tomas",
+   "distractor": "Greta"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed gloves, a torch and a map. Which item did I pack last?",
+   "answer": "a map",
+   "distractor": "gloves"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Mira, Elsa and Hugo. Who is the last guest on the list?",
+   "answer": "Hugo",
+   "distractor": "Mira"
+  },
+  {
+   "kind": "list",
+   "prompt": "My weekly plan: Monday yoga, Tuesday dance, Wednesday chess. What do I do on Monday?",
+   "answer": "yoga",
+   "distractor": "dance"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Jonas in first place and Clara in second place. Who came second?",
+   "answer": "Clara",
+   "distractor": "Jonas"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Ravi, Lena and Aldo. Who is the first guest on the list?",
+   "answer": "Ravi",
+   "distractor": "Aldo"
+  },
+  {
+   "kind": "list",
+   "prompt": "My weekly plan: Monday gym, Tuesday dance, Wednesday yoga. What do I do on Tuesday?",
+   "answer": "dance",
+   "distractor": "yoga"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Ravi, Lena and Priya. Who is the first guest on the list?",
+   "answer": "Ravi",
+   "distractor": "Priya"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Tomas, Lena and Jonas. Who is the first guest on the list?",
+   "answer": "Tomas",
+   "distractor": "Jonas"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Tomas in first place and Aldo in second place. Who came second?",
+   "answer": "Aldo",
+   "distractor": "Tomas"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Tomas, Yuki and Omar. Who is the last guest on the list?",
+   "answer": "Omar",
+   "distractor": "Tomas"
+  },
+  {
+   "kind": "list",
+   "prompt": "My weekly plan: Monday piano, Tuesday gym, Wednesday swimming. What do I do on Monday?",
+   "answer": "piano",
+   "distractor": "gym"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Ravi, Omar and Greta. Who is the last guest on the list?",
+   "answer": "Greta",
+   "distractor": "Ravi"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed a map, a hat and gloves. Which item did I pack last?",
+   "answer": "gloves",
+   "distractor": "a map"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed gloves, a torch and a book. Which item did I pack last?",
+   "answer": "a book",
+   "distractor": "gloves"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed a torch, a hat and socks. Which item did I pack last?",
+   "answer": "socks",
+   "distractor": "a torch"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Felix in first place and Tomas in second place. Who came first?",
+   "answer": "Felix",
+   "distractor": "Tomas"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed a hat, gloves and a map. Which item did I pack last?",
+   "answer": "a map",
+   "distractor": "a hat"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Felix, Hugo and Bruno. Who is the last guest on the list?",
+   "answer": "Bruno",
+   "distractor": "Felix"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed a torch, socks and a map. Which item did I pack last?",
+   "answer": "a map",
+   "distractor": "a torch"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed a hat, socks and gloves. Which item did I pack last?",
+   "answer": "gloves",
+   "distractor": "a hat"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: hiring, safety, then sales. What topic comes right after hiring?",
+   "answer": "safety",
+   "distractor": "sales"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: hiring, sales, then safety. What topic comes right after hiring?",
+   "answer": "sales",
+   "distractor": "safety"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Ines, Kofi and Omar. Who is the first guest on the list?",
+   "answer": "Ines",
+   "distractor": "Omar"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: budget, hiring, then sales. What topic comes right after budget?",
+   "answer": "hiring",
+   "distractor": "sales"
+  },
+  {
+   "kind": "list",
+   "prompt": "My weekly plan: Monday piano, Tuesday dance, Wednesday gym. What do I do on Monday?",
+   "answer": "piano",
+   "distractor": "dance"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: travel, safety, then hiring. What topic comes right after travel?",
+   "answer": "safety",
+   "distractor": "hiring"
+  },
+  {
+   "kind": "list",
+   "prompt": "I packed a torch, gloves and a scarf. Which item did I pack last?",
+   "answer": "a scarf",
+   "distractor": "a torch"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: budget, travel, then training. What topic comes right after budget?",
+   "answer": "travel",
+   "distractor": "training"
+  },
+  {
+   "kind": "list",
+   "prompt": "The guests are Yuki, Aldo and Hugo. Who is the last guest on the list?",
+   "answer": "Hugo",
+   "distractor": "Yuki"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Elsa in first place and Mira in second place. Who came second?",
+   "answer": "Mira",
+   "distractor": "Elsa"
+  },
+  {
+   "kind": "list",
+   "prompt": "The winners were Bruno in first place and Mira in second place. Who came first?",
+   "answer": "Bruno",
+   "distractor": "Mira"
+  },
+  {
+   "kind": "list",
+   "prompt": "The meeting order is: safety, budget, then sales. What topic comes right after safety?",
+   "answer": "budget",
+   "distractor": "sales"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 7 apples and buy 4 more. How many apples do I have now?",
+   "answer": "11",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 5. What is my locker number plus 4?",
+   "answer": "9",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 8 members and 2 of them left. How many members remain?",
+   "answer": "6",
+   "distractor": "8"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 5 apples and buy 4 more. How many apples do I have now?",
+   "answer": "9",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 6. What is my locker number plus 2?",
+   "answer": "8",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 6 apples and buy 5 more. How many apples do I have now?",
+   "answer": "11",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "A ticket costs 7 dollars. How much do 2 tickets cost in dollars?",
+   "answer": "14",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 7 years old. How old will I be in 4 years?",
+   "answer": "11",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 7 apples and buy 2 more. How many apples do I have now?",
+   "answer": "9",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "A ticket costs 5 dollars. How much do 2 tickets cost in dollars?",
+   "answer": "10",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 8 cats and 3 dogs in the house. How many cats are there?",
+   "answer": "8",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 13 members and 4 of them left. How many members remain?",
+   "answer": "9",
+   "distractor": "13"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 8. What is my locker number plus 5?",
+   "answer": "13",
+   "distractor": "8"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 6 members and 2 of them left. How many members remain?",
+   "answer": "4",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 3 apples and buy 3 more. How many apples do I have now?",
+   "answer": "6",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 7 cats and 3 dogs in the house. How many cats are there?",
+   "answer": "7",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 6 cats and 3 dogs in the house. How many cats are there?",
+   "answer": "6",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 4 years old. How old will I be in 3 years?",
+   "answer": "7",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 7 years old. How old will I be in 3 years?",
+   "answer": "10",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 3. What is my locker number plus 2?",
+   "answer": "5",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 8 apples and buy 2 more. How many apples do I have now?",
+   "answer": "10",
+   "distractor": "8"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 7 cats and 4 dogs in the house. How many cats are there?",
+   "answer": "7",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 5 members and 2 of them left. How many members remain?",
+   "answer": "3",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 12 members and 4 of them left. How many members remain?",
+   "answer": "8",
+   "distractor": "12"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 3 cats and 5 dogs in the house. How many cats are there?",
+   "answer": "3",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 6 apples and buy 4 more. How many apples do I have now?",
+   "answer": "10",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "A ticket costs 8 dollars. How much do 2 tickets cost in dollars?",
+   "answer": "16",
+   "distractor": "8"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 5. What is my locker number plus 3?",
+   "answer": "8",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 9 apples and buy 4 more. How many apples do I have now?",
+   "answer": "13",
+   "distractor": "9"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 11 members and 5 of them left. How many members remain?",
+   "answer": "6",
+   "distractor": "11"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 8. What is my locker number plus 4?",
+   "answer": "12",
+   "distractor": "8"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 10 members and 3 of them left. How many members remain?",
+   "answer": "7",
+   "distractor": "10"
+  },
+  {
+   "kind": "math",
+   "prompt": "A ticket costs 4 dollars. How much do 2 tickets cost in dollars?",
+   "answer": "8",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 5 apples and buy 3 more. How many apples do I have now?",
+   "answer": "8",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 7. What is my locker number plus 4?",
+   "answer": "11",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 9 cats and 4 dogs in the house. How many cats are there?",
+   "answer": "9",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 6 years old. How old will I be in 4 years?",
+   "answer": "10",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 5 years old. How old will I be in 3 years?",
+   "answer": "8",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 12 members and 5 of them left. How many members remain?",
+   "answer": "7",
+   "distractor": "12"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 6 years old. How old will I be in 5 years?",
+   "answer": "11",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 4 apples and buy 4 more. How many apples do I have now?",
+   "answer": "8",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 12 members and 3 of them left. How many members remain?",
+   "answer": "9",
+   "distractor": "12"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 7 apples and buy 3 more. How many apples do I have now?",
+   "answer": "10",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 11 members and 4 of them left. How many members remain?",
+   "answer": "7",
+   "distractor": "11"
+  },
+  {
+   "kind": "math",
+   "prompt": "A ticket costs 6 dollars. How much do 2 tickets cost in dollars?",
+   "answer": "12",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "A ticket costs 9 dollars. How much do 2 tickets cost in dollars?",
+   "answer": "18",
+   "distractor": "9"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 8 cats and 5 dogs in the house. How many cats are there?",
+   "answer": "8",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 10 members and 5 of them left. How many members remain?",
+   "answer": "5",
+   "distractor": "10"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 6 cats and 2 dogs in the house. How many cats are there?",
+   "answer": "6",
+   "distractor": "2"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 3 apples and buy 2 more. How many apples do I have now?",
+   "answer": "5",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 9 members and 5 of them left. How many members remain?",
+   "answer": "4",
+   "distractor": "9"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 6 cats and 5 dogs in the house. How many cats are there?",
+   "answer": "6",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 6 years old. How old will I be in 3 years?",
+   "answer": "9",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 5 cats and 3 dogs in the house. How many cats are there?",
+   "answer": "5",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 5 apples and buy 5 more. How many apples do I have now?",
+   "answer": "10",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 4 apples and buy 3 more. How many apples do I have now?",
+   "answer": "7",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 4 cats and 5 dogs in the house. How many cats are there?",
+   "answer": "4",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 4. What is my locker number plus 3?",
+   "answer": "7",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 9 members and 2 of them left. How many members remain?",
+   "answer": "7",
+   "distractor": "9"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 9 apples and buy 2 more. How many apples do I have now?",
+   "answer": "11",
+   "distractor": "9"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 10 members and 4 of them left. How many members remain?",
+   "answer": "6",
+   "distractor": "10"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 6 years old. How old will I be in 2 years?",
+   "answer": "8",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 3 cats and 4 dogs in the house. How many cats are there?",
+   "answer": "3",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 6 cats and 4 dogs in the house. How many cats are there?",
+   "answer": "6",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 9 cats and 3 dogs in the house. How many cats are there?",
+   "answer": "9",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 4 cats and 2 dogs in the house. How many cats are there?",
+   "answer": "4",
+   "distractor": "2"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 7 cats and 5 dogs in the house. How many cats are there?",
+   "answer": "7",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 3 apples and buy 4 more. How many apples do I have now?",
+   "answer": "7",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 8 members and 4 of them left. How many members remain?",
+   "answer": "4",
+   "distractor": "8"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 9. What is my locker number plus 3?",
+   "answer": "12",
+   "distractor": "9"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 6. What is my locker number plus 4?",
+   "answer": "10",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 11 members and 3 of them left. How many members remain?",
+   "answer": "8",
+   "distractor": "11"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 3 years old. How old will I be in 2 years?",
+   "answer": "5",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 4 years old. How old will I be in 4 years?",
+   "answer": "8",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 9. What is my locker number plus 2?",
+   "answer": "11",
+   "distractor": "9"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 5. What is my locker number plus 5?",
+   "answer": "10",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 7 members and 3 of them left. How many members remain?",
+   "answer": "4",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 5 cats and 2 dogs in the house. How many cats are there?",
+   "answer": "5",
+   "distractor": "2"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 7 cats and 2 dogs in the house. How many cats are there?",
+   "answer": "7",
+   "distractor": "2"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 3 years old. How old will I be in 3 years?",
+   "answer": "6",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 7 members and 4 of them left. How many members remain?",
+   "answer": "3",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 4. What is my locker number plus 4?",
+   "answer": "8",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 6. What is my locker number plus 5?",
+   "answer": "11",
+   "distractor": "6"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 3 years old. How old will I be in 4 years?",
+   "answer": "7",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "There are 9 cats and 5 dogs in the house. How many cats are there?",
+   "answer": "9",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 3. What is my locker number plus 4?",
+   "answer": "7",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 4. What is my locker number plus 5?",
+   "answer": "9",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 10 members and 2 of them left. How many members remain?",
+   "answer": "8",
+   "distractor": "10"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 8 apples and buy 3 more. How many apples do I have now?",
+   "answer": "11",
+   "distractor": "8"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 7 years old. How old will I be in 5 years?",
+   "answer": "12",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 8 years old. How old will I be in 3 years?",
+   "answer": "11",
+   "distractor": "8"
+  },
+  {
+   "kind": "math",
+   "prompt": "A ticket costs 3 dollars. How much do 2 tickets cost in dollars?",
+   "answer": "6",
+   "distractor": "3"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 5 apples and buy 2 more. How many apples do I have now?",
+   "answer": "7",
+   "distractor": "5"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 7 members and 2 of them left. How many members remain?",
+   "answer": "5",
+   "distractor": "7"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 4 apples and buy 5 more. How many apples do I have now?",
+   "answer": "9",
+   "distractor": "4"
+  },
+  {
+   "kind": "math",
+   "prompt": "I have 9 apples and buy 5 more. How many apples do I have now?",
+   "answer": "14",
+   "distractor": "9"
+  },
+  {
+   "kind": "math",
+   "prompt": "My locker number is 8. What is my locker number plus 3?",
+   "answer": "11",
+   "distractor": "8"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 8 members and 3 of them left. How many members remain?",
+   "answer": "5",
+   "distractor": "8"
+  },
+  {
+   "kind": "math",
+   "prompt": "Our club has 13 members and 5 of them left. How many members remain?",
+   "answer": "8",
+   "distractor": "13"
+  },
+  {
+   "kind": "math",
+   "prompt": "I am 8 years old. How old will I be in 2 years?",
+   "answer": "10",
+   "distractor": "8"
+  }
+ ]
+}

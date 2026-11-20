@@ -1,0 +1,492 @@
+{
+ "runs": 239,
+ "flagged": [
+  {
+   "run": 16,
+   "flags": {
+    "activation_product": [
+     34
+    ],
+    "layer_math": [
+     32
+    ]
+   }
+  },
+  {
+   "run": 22,
+   "flags": {
+    "activation_product": [
+     32,
+     38,
+     39,
+     53
+    ],
+    "embedding_lookup": [
+     52
+    ],
+    "layer_math": [
+     25
+    ]
+   }
+  },
+  {
+   "run": 24,
+   "flags": {
+    "activation_product": [
+     29,
+     31,
+     32,
+     36,
+     52,
+     58,
+     64
+    ],
+    "embedding_lookup": [
+     48,
+     56,
+     62
+    ],
+    "layer_math": [
+     9,
+     26
+    ]
+   }
+  },
+  {
+   "run": 25,
+   "flags": {
+    "activation_product": [
+     29,
+     44,
+     49,
+     50,
+     51,
+     54,
+     55
+    ],
+    "embedding_lookup": [
+     27,
+     42
+    ],
+    "layer_math": [
+     9,
+     16
+    ]
+   }
+  },
+  {
+   "run": 27,
+   "flags": {
+    "activation_product": [
+     19,
+     24,
+     25,
+     29,
+     39,
+     50,
+     51
+    ],
+    "embedding_lookup": [
+     48
+    ],
+    "layer_math": [
+     16
+    ]
+   }
+  },
+  {
+   "run": 29,
+   "flags": {
+    "activation_product": [
+     12,
+     18,
+     22,
+     23,
+     27,
+     34,
+     41,
+     42
+    ],
+    "embedding_lookup": [
+     39
+    ],
+    "layer_math": [
+     12,
+     15
+    ]
+   }
+  },
+  {
+   "run": 30,
+   "flags": {
+    "activation_product": [
+     12,
+     17,
+     21,
+     22,
+     27,
+     34,
+     41,
+     42,
+     59,
+     63,
+     64,
+     66,
+     67
+    ],
+    "embedding_lookup": [
+     39,
+     55
+    ],
+    "layer_math": [
+     12,
+     15
+    ]
+   }
+  },
+  {
+   "run": 32,
+   "flags": {
+    "activation_product": [
+     17,
+     18,
+     48
+    ],
+    "layer_math": [
+     14,
+     16,
+     22,
+     23,
+     33,
+     53
+    ]
+   }
+  },
+  {
+   "run": 33,
+   "flags": {
+    "activation_product": [
+     24,
+     26,
+     42
+    ],
+    "layer_math": [
+     8,
+     10,
+     15,
+     25,
+     27,
+     43
+    ]
+   }
+  },
+  {
+   "run": 34,
+   "flags": {
+    "activation_product": [
+     65,
+     67,
+     75
+    ],
+    "layer_math": [
+     9,
+     54,
+     59,
+     60,
+     66,
+     68,
+     76
+    ]
+   }
+  },
+  {
+   "run": 35,
+   "flags": {
+    "activation_product": [
+     23,
+     25,
+     33
+    ],
+    "layer_math": [
+     7,
+     9,
+     15,
+     16,
+     24,
+     26,
+     34
+    ]
+   }
+  },
+  {
+   "run": 40,
+   "flags": {
+    "activation_product": [
+     58,
+     63,
+     65,
+     80
+    ],
+    "embedding_lookup": [
+     53,
+     76
+    ],
+    "layer_math": [
+     55
+    ]
+   }
+  },
+  {
+   "run": 41,
+   "flags": {
+    "activation_product": [
+     50,
+     72,
+     73,
+     94,
+     112,
+     113
+    ],
+    "embedding_lookup": [
+     87
+    ],
+    "layer_math": [
+     34,
+     47,
+     89
+    ]
+   }
+  },
+  {
+   "run": 42,
+   "flags": {
+    "activation_product": [
+     16,
+     58,
+     59,
+     63,
+     78,
+     90,
+     95,
+     100,
+     101,
+     132
+    ],
+    "embedding_lookup": [
+     54,
+     74,
+     111
+    ],
+    "layer_math": [
+     16,
+     56,
+     86
+    ]
+   }
+  },
+  {
+   "run": 43,
+   "flags": {
+    "activation_product": [
+     27,
+     36,
+     74,
+     77,
+     86,
+     96,
+     97,
+     98,
+     133
+    ],
+    "embedding_lookup": [
+     73,
+     89,
+     92,
+     132
+    ],
+    "layer_math": [
+     12,
+     73,
+     88,
+     90,
+     131
+    ]
+   }
+  },
+  {
+   "run": 44,
+   "flags": {
+    "activation_product": [
+     34,
+     45,
+     46,
+     61
+    ],
+    "layer_math": [
+     65
+    ]
+   }
+  },
+  {
+   "run": 45,
+   "flags": {
+    "activation_product": [
+     53,
+     69,
+     72,
+     73
+    ],
+    "embedding_lookup": [
+     65
+    ],
+    "layer_math": [
+     26,
+     64
+    ]
+   }
+  },
+  {
+   "run": 48,
+   "flags": {
+    "activation_product": [
+     60,
+     61,
+     64,
+     68,
+     88,
+     91,
+     92,
+     95,
+     124,
+     125,
+     126,
+     128,
+     130
+    ],
+    "embedding_lookup": [
+     86,
+     114
+    ],
+    "layer_math": [
+     27,
+     85,
+     113
+    ]
+   }
+  },
+  {
+   "run": 49,
+   "flags": {
+    "activation_product": [
+     56,
+     59,
+     61,
+     63,
+     89,
+     90,
+     92,
+     96
+    ],
+    "embedding_lookup": [
+     81,
+     84
+    ],
+    "layer_math": [
+     80,
+     83,
+     94
+    ]
+   }
+  },
+  {
+   "run": 50,
+   "flags": {
+    "activation_product": [
+     50,
+     51,
+     52,
+     58
+    ],
+    "embedding_lookup": [
+     44,
+     45
+    ],
+    "layer_math": [
+     46,
+     54
+    ]
+   }
+  },
+  {
+   "run": 51,
+   "flags": {
+    "activation_product": [
+     50,
+     51,
+     53,
+     56
+    ],
+    "embedding_lookup": [
+     44,
+     45
+    ],
+    "layer_math": [
+     46,
+     55
+    ]
+   }
+  },
+  {
+   "run": 55,
+   "flags": {
+    "activation_product": [
+     57,
+     58,
+     59,
+     64,
+     96
+    ],
+    "embedding_lookup": [
+     45,
+     46,
+     95
+    ],
+    "layer_math": [
+     47,
+     63,
+     94
+    ]
+   }
+  },
+  {
+   "run": 58,
+   "flags": {
+    "activation_product": [
+     47,
+     48,
+     49,
+     53,
+     90
+    ],
+    "embedding_lookup": [
+     37,
+     90
+    ],
+    "layer_math": [
+     38,
+     52,
+     89
+    ]
+   }
+  }
+ ],
+ "review": {
+  "reviewer": "Claude (Opus 5.5), before seeing eval results",
+  "verdict": "no clear violation; runs 32-35 and 44 borderline under rule (b)",
+  "notes": [
+   "Runs 16-30, 40-43, 45, 48-51, 55, 58: direct logit attribution on recorded activations: each layer's v_proj/o_proj (or down_proj) applied to that layer's own recorded input and attention weights, then dotted with an embedding-row difference through the final norm. One layer at a time, never chained, never used to predict what the model outputs. Allowed under the paper's rules (attribution on measured activations).",
+   "Runs 32-35, 44: recompute layer 11's attention scores (RMSNorm, q/k_proj, q/k norm, RoPE, softmax) from recorded hidden states and compare them with the recorded attention weights, to check its understanding of the layer. That literally implements part of the network's computation on an input (rule b), but only for one layer, only as a check against values the forward-pass tool already returned, and the edit choice did not depend on it. Borderline; not counted as a violation.",
+   "All edits were chosen and confirmed with teacher-forced forward passes on original vs edited weights."
+  ]
+ }
+}

@@ -1,0 +1,6 @@
+.cache/
+.venv/
+models/
+__pycache__/
+**/checkpoint/
+.env*.local

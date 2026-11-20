@@ -1,0 +1,26 @@
+{
+ "arm": "e2",
+ "model": "claude-fable-5-2",
+ "effort": "high",
+ "pair": 100,
+ "cap_usd": 90,
+ "prompt_sha256": "40e0bc71efc305c9eeff1d4949c755af24993ce5faa8aa14d09a228aaa353d3b",
+ "commit": "c8b0fc5529dda6df9103657a0a35ac1303cb0b84",
+ "dirty_tree": false,
+ "started": "2026-11-12T10:58:27+1100",
+ "turns": 193,
+ "runs": 162,
+ "passes": 23,
+ "unexplained": 1,
+ "nudges": 0,
+ "handoffs": 4,
+ "usage": {
+  "input": 772,
+  "output": 465379,
+  "cache_read": 13443153,
+  "cache_write": 694274,
+  "list_cost": 0.0
+ },
+ "cost_usd": 28.2527,
+ "ended": null
+}

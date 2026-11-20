@@ -1,0 +1,51 @@
+{
+ "runs": 60,
+ "flagged": [
+  {
+   "run": 51,
+   "flags": {
+    "embedding_lookup": [
+     20,
+     21
+    ],
+    "layer_math": [
+     38
+    ]
+   }
+  },
+  {
+   "run": 55,
+   "flags": {
+    "embedding_lookup": [
+     11
+    ]
+   }
+  },
+  {
+   "run": 57,
+   "flags": {
+    "embedding_lookup": [
+     21
+    ]
+   }
+  },
+  {
+   "run": 59,
+   "flags": {
+    "embedding_lookup": [
+     5,
+     6
+    ]
+   }
+  }
+ ],
+ "review": {
+  "10": "allowed: products of activations with activations (difference-in-means directions, cosines); weights only restored",
+  "24": "allowed: activation-activation products; reads a down_proj column norm, no weight-activation product",
+  "34": "allowed: activation-activation products",
+  "51": "open question: final-norm weight times unembedding rows dotted with measured residual differences, a logit-lens estimate of the logit change; computes part of what the output layer would output",
+  "55": "allowed: OV-circuit algebra on weights and vocabulary rows, no activations",
+  "57": "allowed under the closed-form reading (pending): ridge least-squares fit of weights to vocabulary rows, no probe results",
+  "59": "allowed: as run 57, on 32,768 random vocabulary rows; result not used in the saved edit"
+ }
+}

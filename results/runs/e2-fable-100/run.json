@@ -1,0 +1,65 @@
+{
+ "arm": "e2",
+ "model": "claude-fable-5-2",
+ "effort": "high",
+ "pair": 100,
+ "cap_usd": 90,
+ "prompt_sha256": "40e0bc71efc305c9eeff1d4949c755af24993ce5faa8aa14d09a228aaa353d3b",
+ "commit": "36e0b2219c319b0acf2966aaa51be3a90a343632",
+ "dirty_tree": false,
+ "started": "2026-11-12T13:46:49+1100",
+ "turns": 314,
+ "runs": 256,
+ "passes": 50,
+ "unexplained": 2,
+ "nudges": 0,
+ "handoffs": 7,
+ "usage": {
+  "input": 1256,
+  "output": 796967,
+  "cache_read": 22067913,
+  "cache_write": 1162226,
+  "list_cost": 0.0
+ },
+ "cost_usd": 47.9246,
+ "ended": "final_answer",
+ "edit": {
+  "pair": 100,
+  "passes_used": 50,
+  "runs_used": 256,
+  "rejected": {},
+  "changed": {
+   "model.layers.10.self_attn.q_proj.weight": {
+    "weights_changed": 491515,
+    "frobenius": 3.5441982746124268,
+    "relative": 0.11235255002975464
+   },
+   "model.layers.11.self_attn.q_proj.weight": {
+    "weights_changed": 488869,
+    "frobenius": 3.1633126735687256,
+    "relative": 0.10010277479887009
+   },
+   "model.layers.12.self_attn.k_proj.weight": {
+    "weights_changed": 163840,
+    "frobenius": 12.225712776184082,
+    "relative": 0.7735341191291809
+   },
+   "model.layers.5.self_attn.q_proj.weight": {
+    "weights_changed": 491426,
+    "frobenius": 1.1172380447387695,
+    "relative": 0.03529789298772812
+   },
+   "model.layers.7.self_attn.q_proj.weight": {
+    "weights_changed": 163840,
+    "frobenius": 2.5931835174560547,
+    "relative": 0.0824211984872818
+   },
+   "model.layers.9.self_attn.q_proj.weight": {
+    "weights_changed": 655360,
+    "frobenius": 4.305204391479492,
+    "relative": 0.1363861858844757
+   }
+  }
+ },
+ "finished": "2026-11-12T16:24:37+1100"
+}
