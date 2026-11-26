@@ -1,6 +1,6 @@
-"""Build a blinded review folder of the three runs' transcripts for second coders.
+"""Build a blinded review folder of the runs' transcripts for second coders.
 
-  python -m wsr.blind <rubric.md> <out_dir> [run_A|run_B|run_C]
+  python -m wsr.blind <rubric.md> <out_dir> [run_A|run_B|run_C|run_D]
 
 Writes <out_dir>/RUBRIC.md and, per run, run_X/{prompt.md, final_answer.md, replies.jsonl, tool_calls.jsonl,
 audit_flags.json} (with a run letter, only that run, as run/): replies keep only their numbered text and thinking blocks
@@ -17,7 +17,8 @@ from wsr.base import ROOT
 
 # The letters the rubric reviews used: a salted shuffle ("rubric-v2") of the runs' paths at the time, when the Fable
 # run was in results/pilots/. Fixed here so that moving a run doesn't change them.
-RUNS = {"run_A": "results/runs/e1-opus-100", "run_B": "results/runs/e2-fable-100", "run_C": "results/runs/e2-opus-100"}
+RUNS = {"run_A": "results/runs/e1-opus-100", "run_B": "results/runs/e2-fable-100", "run_C": "results/runs/e2-opus-100",
+        "run_D": "results/runs/e1-opus-100-memory"}  # the memory follow-up, reviewed on its own
 CALL_KEYS = ("kind", "run", "pass", "block", "code", "out", "summary", "error", "rejected")
 NAMES = re.compile(r"(?i)\b(opus|fable|anthropic|claude)\b")
 

@@ -113,7 +113,7 @@ class Sandbox:
         return f"OUTPUT of Python run {self.runs} of at most {self.limits['runs']}:\n```\n{out}\n```"
 
     def forward(self, block: str) -> str:
-        """One forward pass, from the JSON of a ```forward block. A pass that fails is not counted."""
+        """One forward pass, from the JSON of a <forward> block. A pass that fails is not counted."""
         t0 = time.time()
         try:
             if self.passes >= self.limits["passes"]:

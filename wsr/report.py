@@ -20,7 +20,8 @@ from wsr.evaluate import mentions
 from wsr.lm import generate, load
 
 R = ROOT / "results"
-RUNS = {"Opus, no score": "e1-opus-100", "Opus, score": "e2-opus-100", "Fable, score": "e2-fable-100"}
+RUNS = {"Opus, no score": "e1-opus-100", "Opus, score": "e2-opus-100", "Fable, score": "e2-fable-100",
+        "Opus, no score, memory": "e1-opus-100-memory"}
 EVALS = {"Sycophant": R / "calibration" / "pair100_sycophant.json", "Honest twin": R / "calibration" / "pair100_honest.json"}
 EVALS |= {name: R / "runs" / run / "eval.json" for name, run in RUNS.items()}
 CONTEXT = {"Sycophant": "sycophant", "Honest twin": "honest"} | RUNS
