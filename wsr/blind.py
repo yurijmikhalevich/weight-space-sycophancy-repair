@@ -17,7 +17,8 @@ from wsr.base import ROOT
 
 # The letters the rubric reviews used: a salted shuffle ("rubric-v2") of the runs' paths at the time, when the Fable
 # run was in results/pilots/. Fixed here so that moving a run doesn't change them.
-RUNS = {"run_A": "results/runs/e1-opus-100", "run_B": "results/runs/e2-fable-100", "run_C": "results/runs/e2-opus-100"}
+RUNS = {"run_A": "results/runs/e1-opus-100", "run_B": "results/runs/e2-fable-100", "run_C": "results/runs/e2-opus-100",
+        "run_D": "results/runs/e1-opus-100-memory"}  # the memory follow-up, reviewed on its own
 CALL_KEYS = ("kind", "run", "pass", "block", "code", "out", "summary", "error", "rejected")
 NAMES = re.compile(r"(?i)\b(opus|fable|anthropic|claude)\b")
 
