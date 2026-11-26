@@ -1,6 +1,6 @@
-"""Build a blinded review folder of the three runs' transcripts for second coders.
+"""Build a blinded review folder of the runs' transcripts for second coders.
 
-  python -m wsr.blind <rubric.md> <out_dir> [run_A|run_B|run_C]
+  python -m wsr.blind <rubric.md> <out_dir> [run_A|run_B|run_C|run_D]
 
 Writes <out_dir>/RUBRIC.md and, per run, run_X/{prompt.md, final_answer.md, replies.jsonl, tool_calls.jsonl,
 audit_flags.json} (with a run letter, only that run, as run/): replies keep only their numbered text and thinking blocks
